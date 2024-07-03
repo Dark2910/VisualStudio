@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\Reverso\Reverso\bin\Debug\netcoreapp3.1\Reverso.exe
+C:\Users\Eduardo\source\repos\Reverso\Reverso\bin\Debug\netcoreapp3.1\Reverso.deps.json
+C:\Users\Eduardo\source\repos\Reverso\Reverso\bin\Debug\netcoreapp3.1\Reverso.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Reverso\Reverso\bin\Debug\netcoreapp3.1\Reverso.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Reverso\Reverso\bin\Debug\netcoreapp3.1\Reverso.dll
+C:\Users\Eduardo\source\repos\Reverso\Reverso\bin\Debug\netcoreapp3.1\Reverso.pdb
+C:\Users\Eduardo\source\repos\Reverso\Reverso\obj\Debug\netcoreapp3.1\Reverso.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Reverso\Reverso\obj\Debug\netcoreapp3.1\Reverso.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Reverso\Reverso\obj\Debug\netcoreapp3.1\Reverso.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Reverso\Reverso\obj\Debug\netcoreapp3.1\Reverso.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Reverso\Reverso\obj\Debug\netcoreapp3.1\Reverso.dll
+C:\Users\Eduardo\source\repos\Reverso\Reverso\obj\Debug\netcoreapp3.1\Reverso.pdb
+C:\Users\Eduardo\source\repos\Reverso\Reverso\obj\Debug\netcoreapp3.1\Reverso.genruntimeconfig.cache

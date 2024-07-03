@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\Camiones\Camiones\bin\Debug\netcoreapp3.1\Camiones.exe
+C:\Users\Eduardo\source\repos\Camiones\Camiones\bin\Debug\netcoreapp3.1\Camiones.deps.json
+C:\Users\Eduardo\source\repos\Camiones\Camiones\bin\Debug\netcoreapp3.1\Camiones.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Camiones\Camiones\bin\Debug\netcoreapp3.1\Camiones.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Camiones\Camiones\bin\Debug\netcoreapp3.1\Camiones.dll
+C:\Users\Eduardo\source\repos\Camiones\Camiones\bin\Debug\netcoreapp3.1\Camiones.pdb
+C:\Users\Eduardo\source\repos\Camiones\Camiones\obj\Debug\netcoreapp3.1\Camiones.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Camiones\Camiones\obj\Debug\netcoreapp3.1\Camiones.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Camiones\Camiones\obj\Debug\netcoreapp3.1\Camiones.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Camiones\Camiones\obj\Debug\netcoreapp3.1\Camiones.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Camiones\Camiones\obj\Debug\netcoreapp3.1\Camiones.dll
+C:\Users\Eduardo\source\repos\Camiones\Camiones\obj\Debug\netcoreapp3.1\Camiones.pdb
+C:\Users\Eduardo\source\repos\Camiones\Camiones\obj\Debug\netcoreapp3.1\Camiones.genruntimeconfig.cache

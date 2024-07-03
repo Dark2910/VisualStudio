@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\MetodoDeLosCuadrados\MetodoDeLosCuadrados\bin\Debug\netcoreapp3.1\MetodoDeLosCuadrados.exe
+C:\Users\Eduardo\source\repos\MetodoDeLosCuadrados\MetodoDeLosCuadrados\bin\Debug\netcoreapp3.1\MetodoDeLosCuadrados.deps.json
+C:\Users\Eduardo\source\repos\MetodoDeLosCuadrados\MetodoDeLosCuadrados\bin\Debug\netcoreapp3.1\MetodoDeLosCuadrados.runtimeconfig.json
+C:\Users\Eduardo\source\repos\MetodoDeLosCuadrados\MetodoDeLosCuadrados\bin\Debug\netcoreapp3.1\MetodoDeLosCuadrados.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\MetodoDeLosCuadrados\MetodoDeLosCuadrados\bin\Debug\netcoreapp3.1\MetodoDeLosCuadrados.dll
+C:\Users\Eduardo\source\repos\MetodoDeLosCuadrados\MetodoDeLosCuadrados\bin\Debug\netcoreapp3.1\MetodoDeLosCuadrados.pdb
+C:\Users\Eduardo\source\repos\MetodoDeLosCuadrados\MetodoDeLosCuadrados\obj\Debug\netcoreapp3.1\MetodoDeLosCuadrados.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\MetodoDeLosCuadrados\MetodoDeLosCuadrados\obj\Debug\netcoreapp3.1\MetodoDeLosCuadrados.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MetodoDeLosCuadrados\MetodoDeLosCuadrados\obj\Debug\netcoreapp3.1\MetodoDeLosCuadrados.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\MetodoDeLosCuadrados\MetodoDeLosCuadrados\obj\Debug\netcoreapp3.1\MetodoDeLosCuadrados.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\MetodoDeLosCuadrados\MetodoDeLosCuadrados\obj\Debug\netcoreapp3.1\MetodoDeLosCuadrados.dll
+C:\Users\Eduardo\source\repos\MetodoDeLosCuadrados\MetodoDeLosCuadrados\obj\Debug\netcoreapp3.1\MetodoDeLosCuadrados.pdb
+C:\Users\Eduardo\source\repos\MetodoDeLosCuadrados\MetodoDeLosCuadrados\obj\Debug\netcoreapp3.1\MetodoDeLosCuadrados.genruntimeconfig.cache

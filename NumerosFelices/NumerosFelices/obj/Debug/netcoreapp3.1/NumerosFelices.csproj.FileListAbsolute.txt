@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\NumerosFelices\NumerosFelices\bin\Debug\netcoreapp3.1\NumerosFelices.exe
+C:\Users\Eduardo\source\repos\NumerosFelices\NumerosFelices\bin\Debug\netcoreapp3.1\NumerosFelices.deps.json
+C:\Users\Eduardo\source\repos\NumerosFelices\NumerosFelices\bin\Debug\netcoreapp3.1\NumerosFelices.runtimeconfig.json
+C:\Users\Eduardo\source\repos\NumerosFelices\NumerosFelices\bin\Debug\netcoreapp3.1\NumerosFelices.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\NumerosFelices\NumerosFelices\bin\Debug\netcoreapp3.1\NumerosFelices.dll
+C:\Users\Eduardo\source\repos\NumerosFelices\NumerosFelices\bin\Debug\netcoreapp3.1\NumerosFelices.pdb
+C:\Users\Eduardo\source\repos\NumerosFelices\NumerosFelices\obj\Debug\netcoreapp3.1\NumerosFelices.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\NumerosFelices\NumerosFelices\obj\Debug\netcoreapp3.1\NumerosFelices.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\NumerosFelices\NumerosFelices\obj\Debug\netcoreapp3.1\NumerosFelices.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\NumerosFelices\NumerosFelices\obj\Debug\netcoreapp3.1\NumerosFelices.dll
+C:\Users\Eduardo\source\repos\NumerosFelices\NumerosFelices\obj\Debug\netcoreapp3.1\NumerosFelices.pdb
+C:\Users\Eduardo\source\repos\NumerosFelices\NumerosFelices\obj\Debug\netcoreapp3.1\NumerosFelices.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\NumerosFelices\NumerosFelices\obj\Debug\netcoreapp3.1\NumerosFelices.genruntimeconfig.cache

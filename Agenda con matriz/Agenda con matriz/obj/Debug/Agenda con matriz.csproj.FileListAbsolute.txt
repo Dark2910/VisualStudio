@@ -1,0 +1,10 @@
+C:\Users\Eduardo\source\repos\Agenda con matriz\Agenda con matriz\bin\Debug\Agenda con matriz.exe.config
+C:\Users\Eduardo\source\repos\Agenda con matriz\Agenda con matriz\bin\Debug\Agenda con matriz.exe
+C:\Users\Eduardo\source\repos\Agenda con matriz\Agenda con matriz\bin\Debug\Agenda con matriz.pdb
+C:\Users\Eduardo\source\repos\Agenda con matriz\Agenda con matriz\obj\Debug\Agenda con matriz.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Agenda con matriz\Agenda con matriz\obj\Debug\Agenda_con_matriz.Form1.resources
+C:\Users\Eduardo\source\repos\Agenda con matriz\Agenda con matriz\obj\Debug\Agenda_con_matriz.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\Agenda con matriz\Agenda con matriz\obj\Debug\Agenda con matriz.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\Agenda con matriz\Agenda con matriz\obj\Debug\Agenda con matriz.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Agenda con matriz\Agenda con matriz\obj\Debug\Agenda con matriz.exe
+C:\Users\Eduardo\source\repos\Agenda con matriz\Agenda con matriz\obj\Debug\Agenda con matriz.pdb

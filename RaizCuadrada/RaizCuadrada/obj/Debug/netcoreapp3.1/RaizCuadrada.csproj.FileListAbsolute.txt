@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\RaizCuadrada\RaizCuadrada\bin\Debug\netcoreapp3.1\RaizCuadrada.exe
+C:\Users\Eduardo\source\repos\RaizCuadrada\RaizCuadrada\bin\Debug\netcoreapp3.1\RaizCuadrada.deps.json
+C:\Users\Eduardo\source\repos\RaizCuadrada\RaizCuadrada\bin\Debug\netcoreapp3.1\RaizCuadrada.runtimeconfig.json
+C:\Users\Eduardo\source\repos\RaizCuadrada\RaizCuadrada\bin\Debug\netcoreapp3.1\RaizCuadrada.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\RaizCuadrada\RaizCuadrada\bin\Debug\netcoreapp3.1\RaizCuadrada.dll
+C:\Users\Eduardo\source\repos\RaizCuadrada\RaizCuadrada\bin\Debug\netcoreapp3.1\RaizCuadrada.pdb
+C:\Users\Eduardo\source\repos\RaizCuadrada\RaizCuadrada\obj\Debug\netcoreapp3.1\RaizCuadrada.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\RaizCuadrada\RaizCuadrada\obj\Debug\netcoreapp3.1\RaizCuadrada.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\RaizCuadrada\RaizCuadrada\obj\Debug\netcoreapp3.1\RaizCuadrada.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\RaizCuadrada\RaizCuadrada\obj\Debug\netcoreapp3.1\RaizCuadrada.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\RaizCuadrada\RaizCuadrada\obj\Debug\netcoreapp3.1\RaizCuadrada.dll
+C:\Users\Eduardo\source\repos\RaizCuadrada\RaizCuadrada\obj\Debug\netcoreapp3.1\RaizCuadrada.pdb
+C:\Users\Eduardo\source\repos\RaizCuadrada\RaizCuadrada\obj\Debug\netcoreapp3.1\RaizCuadrada.genruntimeconfig.cache

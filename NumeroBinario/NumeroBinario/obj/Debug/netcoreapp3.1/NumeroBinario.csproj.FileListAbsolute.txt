@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\NumeroBinario\NumeroBinario\bin\Debug\netcoreapp3.1\NumeroBinario.exe
+C:\Users\Eduardo\source\repos\NumeroBinario\NumeroBinario\bin\Debug\netcoreapp3.1\NumeroBinario.deps.json
+C:\Users\Eduardo\source\repos\NumeroBinario\NumeroBinario\bin\Debug\netcoreapp3.1\NumeroBinario.runtimeconfig.json
+C:\Users\Eduardo\source\repos\NumeroBinario\NumeroBinario\bin\Debug\netcoreapp3.1\NumeroBinario.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\NumeroBinario\NumeroBinario\bin\Debug\netcoreapp3.1\NumeroBinario.dll
+C:\Users\Eduardo\source\repos\NumeroBinario\NumeroBinario\bin\Debug\netcoreapp3.1\NumeroBinario.pdb
+C:\Users\Eduardo\source\repos\NumeroBinario\NumeroBinario\obj\Debug\netcoreapp3.1\NumeroBinario.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\NumeroBinario\NumeroBinario\obj\Debug\netcoreapp3.1\NumeroBinario.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\NumeroBinario\NumeroBinario\obj\Debug\netcoreapp3.1\NumeroBinario.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\NumeroBinario\NumeroBinario\obj\Debug\netcoreapp3.1\NumeroBinario.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\NumeroBinario\NumeroBinario\obj\Debug\netcoreapp3.1\NumeroBinario.dll
+C:\Users\Eduardo\source\repos\NumeroBinario\NumeroBinario\obj\Debug\netcoreapp3.1\NumeroBinario.pdb
+C:\Users\Eduardo\source\repos\NumeroBinario\NumeroBinario\obj\Debug\netcoreapp3.1\NumeroBinario.genruntimeconfig.cache

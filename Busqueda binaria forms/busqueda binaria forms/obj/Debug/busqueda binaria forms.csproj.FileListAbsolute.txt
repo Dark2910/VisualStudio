@@ -1,0 +1,30 @@
+C:\Users\mike1\Desktop\Visual Estudio\3er parcial\busqueda binaria forms\busqueda binaria forms\bin\Debug\busqueda binaria forms.exe.config
+C:\Users\mike1\Desktop\Visual Estudio\3er parcial\busqueda binaria forms\busqueda binaria forms\bin\Debug\busqueda binaria forms.exe
+C:\Users\mike1\Desktop\Visual Estudio\3er parcial\busqueda binaria forms\busqueda binaria forms\bin\Debug\busqueda binaria forms.pdb
+C:\Users\mike1\Desktop\Visual Estudio\3er parcial\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.csprojAssemblyReference.cache
+C:\Users\mike1\Desktop\Visual Estudio\3er parcial\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda_binaria_forms.Form1.resources
+C:\Users\mike1\Desktop\Visual Estudio\3er parcial\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda_binaria_forms.Properties.Resources.resources
+C:\Users\mike1\Desktop\Visual Estudio\3er parcial\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.csproj.GenerateResource.cache
+C:\Users\mike1\Desktop\Visual Estudio\3er parcial\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.csproj.CoreCompileInputs.cache
+C:\Users\mike1\Desktop\Visual Estudio\3er parcial\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.exe
+C:\Users\mike1\Desktop\Visual Estudio\3er parcial\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.pdb
+C:\Users\Eduardo\Downloads\busqueda binaria forms\busqueda binaria forms\bin\Debug\busqueda binaria forms.exe.config
+C:\Users\Eduardo\Downloads\busqueda binaria forms\busqueda binaria forms\bin\Debug\busqueda binaria forms.exe
+C:\Users\Eduardo\Downloads\busqueda binaria forms\busqueda binaria forms\bin\Debug\busqueda binaria forms.pdb
+C:\Users\Eduardo\Downloads\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.csprojAssemblyReference.cache
+C:\Users\Eduardo\Downloads\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda_binaria_forms.Form1.resources
+C:\Users\Eduardo\Downloads\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda_binaria_forms.Properties.Resources.resources
+C:\Users\Eduardo\Downloads\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.csproj.GenerateResource.cache
+C:\Users\Eduardo\Downloads\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Downloads\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.exe
+C:\Users\Eduardo\Downloads\busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.pdb
+C:\Users\Eduardo\source\repos\Busqueda binaria forms\busqueda binaria forms\bin\Debug\busqueda binaria forms.exe.config
+C:\Users\Eduardo\source\repos\Busqueda binaria forms\busqueda binaria forms\bin\Debug\busqueda binaria forms.exe
+C:\Users\Eduardo\source\repos\Busqueda binaria forms\busqueda binaria forms\bin\Debug\busqueda binaria forms.pdb
+C:\Users\Eduardo\source\repos\Busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda_binaria_forms.Form1.resources
+C:\Users\Eduardo\source\repos\Busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda_binaria_forms.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\Busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\Busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.exe
+C:\Users\Eduardo\source\repos\Busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.pdb
+C:\Users\Eduardo\source\repos\Busqueda binaria forms\busqueda binaria forms\obj\Debug\busqueda binaria forms.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\NumeroMalvado\NumeroMalvado\bin\Debug\netcoreapp3.1\NumeroMalvado.exe
+C:\Users\Eduardo\source\repos\NumeroMalvado\NumeroMalvado\bin\Debug\netcoreapp3.1\NumeroMalvado.deps.json
+C:\Users\Eduardo\source\repos\NumeroMalvado\NumeroMalvado\bin\Debug\netcoreapp3.1\NumeroMalvado.runtimeconfig.json
+C:\Users\Eduardo\source\repos\NumeroMalvado\NumeroMalvado\bin\Debug\netcoreapp3.1\NumeroMalvado.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\NumeroMalvado\NumeroMalvado\bin\Debug\netcoreapp3.1\NumeroMalvado.dll
+C:\Users\Eduardo\source\repos\NumeroMalvado\NumeroMalvado\bin\Debug\netcoreapp3.1\NumeroMalvado.pdb
+C:\Users\Eduardo\source\repos\NumeroMalvado\NumeroMalvado\obj\Debug\netcoreapp3.1\NumeroMalvado.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\NumeroMalvado\NumeroMalvado\obj\Debug\netcoreapp3.1\NumeroMalvado.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\NumeroMalvado\NumeroMalvado\obj\Debug\netcoreapp3.1\NumeroMalvado.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\NumeroMalvado\NumeroMalvado\obj\Debug\netcoreapp3.1\NumeroMalvado.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\NumeroMalvado\NumeroMalvado\obj\Debug\netcoreapp3.1\NumeroMalvado.dll
+C:\Users\Eduardo\source\repos\NumeroMalvado\NumeroMalvado\obj\Debug\netcoreapp3.1\NumeroMalvado.pdb
+C:\Users\Eduardo\source\repos\NumeroMalvado\NumeroMalvado\obj\Debug\netcoreapp3.1\NumeroMalvado.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Users\Eduardo\source\repos\Avance de proyecto 2.0\Avance de proyecto 2.0\bin\Debug\Avance de proyecto 2.0.exe.config
+C:\Users\Eduardo\source\repos\Avance de proyecto 2.0\Avance de proyecto 2.0\bin\Debug\Avance de proyecto 2.0.exe
+C:\Users\Eduardo\source\repos\Avance de proyecto 2.0\Avance de proyecto 2.0\bin\Debug\Avance de proyecto 2.0.pdb
+C:\Users\Eduardo\source\repos\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance_de_proyecto_2._0.Form1.resources
+C:\Users\Eduardo\source\repos\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance_de_proyecto_2._0.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.exe
+C:\Users\Eduardo\source\repos\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.pdb
+C:\Users\Eduardo\Desktop\Avance de proyecto 2.0\Avance de proyecto 2.0\bin\Debug\Avance de proyecto 2.0.exe.config
+C:\Users\Eduardo\Desktop\Avance de proyecto 2.0\Avance de proyecto 2.0\bin\Debug\Avance de proyecto 2.0.exe
+C:\Users\Eduardo\Desktop\Avance de proyecto 2.0\Avance de proyecto 2.0\bin\Debug\Avance de proyecto 2.0.pdb
+C:\Users\Eduardo\Desktop\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.csprojAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance_de_proyecto_2._0.Form1.resources
+C:\Users\Eduardo\Desktop\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance_de_proyecto_2._0.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.csproj.GenerateResource.cache
+C:\Users\Eduardo\Desktop\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.exe
+C:\Users\Eduardo\Desktop\Avance de proyecto 2.0\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.pdb
+C:\Users\Eduardo\source\repos\Avance de proyecto\Avance de proyecto 2.0\bin\Debug\Avance de proyecto 2.0.exe.config
+C:\Users\Eduardo\source\repos\Avance de proyecto\Avance de proyecto 2.0\bin\Debug\Avance de proyecto 2.0.exe
+C:\Users\Eduardo\source\repos\Avance de proyecto\Avance de proyecto 2.0\bin\Debug\Avance de proyecto 2.0.pdb
+C:\Users\Eduardo\source\repos\Avance de proyecto\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Avance de proyecto\Avance de proyecto 2.0\obj\Debug\Avance_de_proyecto_2._0.Form1.resources
+C:\Users\Eduardo\source\repos\Avance de proyecto\Avance de proyecto 2.0\obj\Debug\Avance_de_proyecto_2._0.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\Avance de proyecto\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\Avance de proyecto\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Avance de proyecto\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.exe
+C:\Users\Eduardo\source\repos\Avance de proyecto\Avance de proyecto 2.0\obj\Debug\Avance de proyecto 2.0.pdb

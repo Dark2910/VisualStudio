@@ -1,0 +1,10 @@
+C:\Users\Eduardo\source\repos\Agenda dinamica\Agenda dinamica\bin\Debug\Agenda dinamica.exe.config
+C:\Users\Eduardo\source\repos\Agenda dinamica\Agenda dinamica\bin\Debug\Agenda dinamica.exe
+C:\Users\Eduardo\source\repos\Agenda dinamica\Agenda dinamica\bin\Debug\Agenda dinamica.pdb
+C:\Users\Eduardo\source\repos\Agenda dinamica\Agenda dinamica\obj\Debug\Agenda dinamica.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Agenda dinamica\Agenda dinamica\obj\Debug\Agenda_dinamica.Form1.resources
+C:\Users\Eduardo\source\repos\Agenda dinamica\Agenda dinamica\obj\Debug\Agenda_dinamica.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\Agenda dinamica\Agenda dinamica\obj\Debug\Agenda dinamica.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\Agenda dinamica\Agenda dinamica\obj\Debug\Agenda dinamica.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Agenda dinamica\Agenda dinamica\obj\Debug\Agenda dinamica.exe
+C:\Users\Eduardo\source\repos\Agenda dinamica\Agenda dinamica\obj\Debug\Agenda dinamica.pdb

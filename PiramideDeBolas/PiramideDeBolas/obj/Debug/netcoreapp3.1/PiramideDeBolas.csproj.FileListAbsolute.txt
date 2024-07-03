@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\PiramideDeBolas\PiramideDeBolas\bin\Debug\netcoreapp3.1\PiramideDeBolas.exe
+C:\Users\Eduardo\source\repos\PiramideDeBolas\PiramideDeBolas\bin\Debug\netcoreapp3.1\PiramideDeBolas.deps.json
+C:\Users\Eduardo\source\repos\PiramideDeBolas\PiramideDeBolas\bin\Debug\netcoreapp3.1\PiramideDeBolas.runtimeconfig.json
+C:\Users\Eduardo\source\repos\PiramideDeBolas\PiramideDeBolas\bin\Debug\netcoreapp3.1\PiramideDeBolas.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\PiramideDeBolas\PiramideDeBolas\bin\Debug\netcoreapp3.1\PiramideDeBolas.dll
+C:\Users\Eduardo\source\repos\PiramideDeBolas\PiramideDeBolas\bin\Debug\netcoreapp3.1\PiramideDeBolas.pdb
+C:\Users\Eduardo\source\repos\PiramideDeBolas\PiramideDeBolas\obj\Debug\netcoreapp3.1\PiramideDeBolas.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\PiramideDeBolas\PiramideDeBolas\obj\Debug\netcoreapp3.1\PiramideDeBolas.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\PiramideDeBolas\PiramideDeBolas\obj\Debug\netcoreapp3.1\PiramideDeBolas.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\PiramideDeBolas\PiramideDeBolas\obj\Debug\netcoreapp3.1\PiramideDeBolas.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\PiramideDeBolas\PiramideDeBolas\obj\Debug\netcoreapp3.1\PiramideDeBolas.dll
+C:\Users\Eduardo\source\repos\PiramideDeBolas\PiramideDeBolas\obj\Debug\netcoreapp3.1\PiramideDeBolas.pdb
+C:\Users\Eduardo\source\repos\PiramideDeBolas\PiramideDeBolas\obj\Debug\netcoreapp3.1\PiramideDeBolas.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\Orden\Orden\bin\Debug\netcoreapp3.0\Orden.exe
+C:\Users\Eduardo\source\repos\Orden\Orden\bin\Debug\netcoreapp3.0\Orden.deps.json
+C:\Users\Eduardo\source\repos\Orden\Orden\bin\Debug\netcoreapp3.0\Orden.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Orden\Orden\bin\Debug\netcoreapp3.0\Orden.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Orden\Orden\bin\Debug\netcoreapp3.0\Orden.dll
+C:\Users\Eduardo\source\repos\Orden\Orden\bin\Debug\netcoreapp3.0\Orden.pdb
+C:\Users\Eduardo\source\repos\Orden\Orden\obj\Debug\netcoreapp3.0\Orden.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Orden\Orden\obj\Debug\netcoreapp3.0\Orden.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Orden\Orden\obj\Debug\netcoreapp3.0\Orden.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Orden\Orden\obj\Debug\netcoreapp3.0\Orden.dll
+C:\Users\Eduardo\source\repos\Orden\Orden\obj\Debug\netcoreapp3.0\Orden.pdb
+C:\Users\Eduardo\source\repos\Orden\Orden\obj\Debug\netcoreapp3.0\Orden.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Orden\Orden\obj\Debug\netcoreapp3.0\Orden.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda con matriz", "Agenda con matriz\Agenda con matriz.csproj", "{D630EC67-A52B-4063-8AFB-926B4BB84ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D630EC67-A52B-4063-8AFB-926B4BB84ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D630EC67-A52B-4063-8AFB-926B4BB84ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D630EC67-A52B-4063-8AFB-926B4BB84ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D630EC67-A52B-4063-8AFB-926B4BB84ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7DC9929-9FE3-4BD1-A898-57DF44D78F75}
+	EndGlobalSection
+EndGlobal

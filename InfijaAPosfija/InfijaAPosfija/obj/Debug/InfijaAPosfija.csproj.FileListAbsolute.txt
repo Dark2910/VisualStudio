@@ -1,0 +1,39 @@
+C:\Users\SONY\source\repos\InfijaAPosfija\InfijaAPosfija\bin\Debug\InfijaAPosfija.exe.config
+C:\Users\SONY\source\repos\InfijaAPosfija\InfijaAPosfija\bin\Debug\InfijaAPosfija.exe
+C:\Users\SONY\source\repos\InfijaAPosfija\InfijaAPosfija\bin\Debug\InfijaAPosfija.pdb
+C:\Users\SONY\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.csprojAssemblyReference.cache
+C:\Users\SONY\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.Form1.resources
+C:\Users\SONY\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.Properties.Resources.resources
+C:\Users\SONY\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.csproj.GenerateResource.cache
+C:\Users\SONY\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.exe
+C:\Users\SONY\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.pdb
+C:\Users\Eduardo\Downloads\InfijaAPosfija\InfijaAPosfija\bin\Debug\InfijaAPosfija.exe.config
+C:\Users\Eduardo\Downloads\InfijaAPosfija\InfijaAPosfija\bin\Debug\InfijaAPosfija.exe
+C:\Users\Eduardo\Downloads\InfijaAPosfija\InfijaAPosfija\bin\Debug\InfijaAPosfija.pdb
+C:\Users\Eduardo\Downloads\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.csprojAssemblyReference.cache
+C:\Users\Eduardo\Downloads\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.Form1.resources
+C:\Users\Eduardo\Downloads\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.Properties.Resources.resources
+C:\Users\Eduardo\Downloads\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.csproj.GenerateResource.cache
+C:\Users\Eduardo\Downloads\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Downloads\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.exe
+C:\Users\Eduardo\Downloads\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.pdb
+D:\Escuela\Estructura de datos\InfijaAPosfija\InfijaAPosfija\bin\Debug\InfijaAPosfija.exe.config
+D:\Escuela\Estructura de datos\InfijaAPosfija\InfijaAPosfija\bin\Debug\InfijaAPosfija.exe
+D:\Escuela\Estructura de datos\InfijaAPosfija\InfijaAPosfija\bin\Debug\InfijaAPosfija.pdb
+D:\Escuela\Estructura de datos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.csprojAssemblyReference.cache
+D:\Escuela\Estructura de datos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.Form1.resources
+D:\Escuela\Estructura de datos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.Properties.Resources.resources
+D:\Escuela\Estructura de datos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.csproj.GenerateResource.cache
+D:\Escuela\Estructura de datos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.exe
+D:\Escuela\Estructura de datos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.pdb
+C:\Users\Eduardo\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.Form1.resources
+C:\Users\Eduardo\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.exe
+C:\Users\Eduardo\source\repos\InfijaAPosfija\InfijaAPosfija\obj\Debug\InfijaAPosfija.pdb
+C:\Users\Eduardo\source\repos\InfijaAPosfija\InfijaAPosfija\bin\Debug\InfijaAPosfija.exe.config
+C:\Users\Eduardo\source\repos\InfijaAPosfija\InfijaAPosfija\bin\Debug\InfijaAPosfija.exe
+C:\Users\Eduardo\source\repos\InfijaAPosfija\InfijaAPosfija\bin\Debug\InfijaAPosfija.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yw6REorpEEq87bqWN17hHM9hx+U9qIPRU+HiThPhYrRUyxaUSHhoIGv1MeYtrdAG/9RaYVMKE47qGoWh6wevjQ==",
+  "success": true,
+  "projectFilePath": "D:\\Usuario\\OneDrive\\Documents\\Programas\\VisualStudio\\NumerosFelices\\NumerosFelices\\NumerosFelices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

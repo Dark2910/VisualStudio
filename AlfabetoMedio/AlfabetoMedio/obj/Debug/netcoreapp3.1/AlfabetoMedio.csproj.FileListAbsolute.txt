@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\AlfabetoMedio\AlfabetoMedio\bin\Debug\netcoreapp3.1\AlfabetoMedio.exe
+C:\Users\Eduardo\source\repos\AlfabetoMedio\AlfabetoMedio\bin\Debug\netcoreapp3.1\AlfabetoMedio.deps.json
+C:\Users\Eduardo\source\repos\AlfabetoMedio\AlfabetoMedio\bin\Debug\netcoreapp3.1\AlfabetoMedio.runtimeconfig.json
+C:\Users\Eduardo\source\repos\AlfabetoMedio\AlfabetoMedio\bin\Debug\netcoreapp3.1\AlfabetoMedio.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\AlfabetoMedio\AlfabetoMedio\bin\Debug\netcoreapp3.1\AlfabetoMedio.dll
+C:\Users\Eduardo\source\repos\AlfabetoMedio\AlfabetoMedio\bin\Debug\netcoreapp3.1\AlfabetoMedio.pdb
+C:\Users\Eduardo\source\repos\AlfabetoMedio\AlfabetoMedio\obj\Debug\netcoreapp3.1\AlfabetoMedio.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\AlfabetoMedio\AlfabetoMedio\obj\Debug\netcoreapp3.1\AlfabetoMedio.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\AlfabetoMedio\AlfabetoMedio\obj\Debug\netcoreapp3.1\AlfabetoMedio.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\AlfabetoMedio\AlfabetoMedio\obj\Debug\netcoreapp3.1\AlfabetoMedio.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\AlfabetoMedio\AlfabetoMedio\obj\Debug\netcoreapp3.1\AlfabetoMedio.dll
+C:\Users\Eduardo\source\repos\AlfabetoMedio\AlfabetoMedio\obj\Debug\netcoreapp3.1\AlfabetoMedio.pdb
+C:\Users\Eduardo\source\repos\AlfabetoMedio\AlfabetoMedio\obj\Debug\netcoreapp3.1\AlfabetoMedio.genruntimeconfig.cache

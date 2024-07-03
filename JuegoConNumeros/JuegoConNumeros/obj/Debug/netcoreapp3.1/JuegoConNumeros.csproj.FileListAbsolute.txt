@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\JuegoConNumeros\JuegoConNumeros\bin\Debug\netcoreapp3.1\JuegoConNumeros.exe
+C:\Users\Eduardo\source\repos\JuegoConNumeros\JuegoConNumeros\bin\Debug\netcoreapp3.1\JuegoConNumeros.deps.json
+C:\Users\Eduardo\source\repos\JuegoConNumeros\JuegoConNumeros\bin\Debug\netcoreapp3.1\JuegoConNumeros.runtimeconfig.json
+C:\Users\Eduardo\source\repos\JuegoConNumeros\JuegoConNumeros\bin\Debug\netcoreapp3.1\JuegoConNumeros.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\JuegoConNumeros\JuegoConNumeros\bin\Debug\netcoreapp3.1\JuegoConNumeros.dll
+C:\Users\Eduardo\source\repos\JuegoConNumeros\JuegoConNumeros\bin\Debug\netcoreapp3.1\JuegoConNumeros.pdb
+C:\Users\Eduardo\source\repos\JuegoConNumeros\JuegoConNumeros\obj\Debug\netcoreapp3.1\JuegoConNumeros.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\JuegoConNumeros\JuegoConNumeros\obj\Debug\netcoreapp3.1\JuegoConNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\JuegoConNumeros\JuegoConNumeros\obj\Debug\netcoreapp3.1\JuegoConNumeros.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\JuegoConNumeros\JuegoConNumeros\obj\Debug\netcoreapp3.1\JuegoConNumeros.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\JuegoConNumeros\JuegoConNumeros\obj\Debug\netcoreapp3.1\JuegoConNumeros.dll
+C:\Users\Eduardo\source\repos\JuegoConNumeros\JuegoConNumeros\obj\Debug\netcoreapp3.1\JuegoConNumeros.pdb
+C:\Users\Eduardo\source\repos\JuegoConNumeros\JuegoConNumeros\obj\Debug\netcoreapp3.1\JuegoConNumeros.genruntimeconfig.cache

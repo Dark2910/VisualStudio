@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\Capicua\Capicua\bin\Debug\netcoreapp3.1\Capicua.exe
+C:\Users\Eduardo\source\repos\Capicua\Capicua\bin\Debug\netcoreapp3.1\Capicua.deps.json
+C:\Users\Eduardo\source\repos\Capicua\Capicua\bin\Debug\netcoreapp3.1\Capicua.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Capicua\Capicua\bin\Debug\netcoreapp3.1\Capicua.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Capicua\Capicua\bin\Debug\netcoreapp3.1\Capicua.dll
+C:\Users\Eduardo\source\repos\Capicua\Capicua\bin\Debug\netcoreapp3.1\Capicua.pdb
+C:\Users\Eduardo\source\repos\Capicua\Capicua\obj\Debug\netcoreapp3.1\Capicua.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Capicua\Capicua\obj\Debug\netcoreapp3.1\Capicua.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Capicua\Capicua\obj\Debug\netcoreapp3.1\Capicua.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Capicua\Capicua\obj\Debug\netcoreapp3.1\Capicua.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Capicua\Capicua\obj\Debug\netcoreapp3.1\Capicua.dll
+C:\Users\Eduardo\source\repos\Capicua\Capicua\obj\Debug\netcoreapp3.1\Capicua.pdb
+C:\Users\Eduardo\source\repos\Capicua\Capicua\obj\Debug\netcoreapp3.1\Capicua.genruntimeconfig.cache

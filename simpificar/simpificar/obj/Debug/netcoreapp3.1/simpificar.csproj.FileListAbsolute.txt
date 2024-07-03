@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\simpificar\simpificar\bin\Debug\netcoreapp3.1\simpificar.exe
+C:\Users\Eduardo\source\repos\simpificar\simpificar\bin\Debug\netcoreapp3.1\simpificar.deps.json
+C:\Users\Eduardo\source\repos\simpificar\simpificar\bin\Debug\netcoreapp3.1\simpificar.runtimeconfig.json
+C:\Users\Eduardo\source\repos\simpificar\simpificar\bin\Debug\netcoreapp3.1\simpificar.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\simpificar\simpificar\bin\Debug\netcoreapp3.1\simpificar.dll
+C:\Users\Eduardo\source\repos\simpificar\simpificar\bin\Debug\netcoreapp3.1\simpificar.pdb
+C:\Users\Eduardo\source\repos\simpificar\simpificar\obj\Debug\netcoreapp3.1\simpificar.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\simpificar\simpificar\obj\Debug\netcoreapp3.1\simpificar.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\simpificar\simpificar\obj\Debug\netcoreapp3.1\simpificar.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\simpificar\simpificar\obj\Debug\netcoreapp3.1\simpificar.dll
+C:\Users\Eduardo\source\repos\simpificar\simpificar\obj\Debug\netcoreapp3.1\simpificar.pdb
+C:\Users\Eduardo\source\repos\simpificar\simpificar\obj\Debug\netcoreapp3.1\simpificar.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\simpificar\simpificar\obj\Debug\netcoreapp3.1\simpificar.genruntimeconfig.cache

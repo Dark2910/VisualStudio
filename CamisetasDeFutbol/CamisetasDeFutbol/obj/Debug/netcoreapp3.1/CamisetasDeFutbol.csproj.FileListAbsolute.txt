@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\CamisetasDeFutbol\CamisetasDeFutbol\bin\Debug\netcoreapp3.1\CamisetasDeFutbol.exe
+C:\Users\Eduardo\source\repos\CamisetasDeFutbol\CamisetasDeFutbol\bin\Debug\netcoreapp3.1\CamisetasDeFutbol.deps.json
+C:\Users\Eduardo\source\repos\CamisetasDeFutbol\CamisetasDeFutbol\bin\Debug\netcoreapp3.1\CamisetasDeFutbol.runtimeconfig.json
+C:\Users\Eduardo\source\repos\CamisetasDeFutbol\CamisetasDeFutbol\bin\Debug\netcoreapp3.1\CamisetasDeFutbol.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\CamisetasDeFutbol\CamisetasDeFutbol\bin\Debug\netcoreapp3.1\CamisetasDeFutbol.dll
+C:\Users\Eduardo\source\repos\CamisetasDeFutbol\CamisetasDeFutbol\bin\Debug\netcoreapp3.1\CamisetasDeFutbol.pdb
+C:\Users\Eduardo\source\repos\CamisetasDeFutbol\CamisetasDeFutbol\obj\Debug\netcoreapp3.1\CamisetasDeFutbol.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\CamisetasDeFutbol\CamisetasDeFutbol\obj\Debug\netcoreapp3.1\CamisetasDeFutbol.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\CamisetasDeFutbol\CamisetasDeFutbol\obj\Debug\netcoreapp3.1\CamisetasDeFutbol.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\CamisetasDeFutbol\CamisetasDeFutbol\obj\Debug\netcoreapp3.1\CamisetasDeFutbol.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\CamisetasDeFutbol\CamisetasDeFutbol\obj\Debug\netcoreapp3.1\CamisetasDeFutbol.dll
+C:\Users\Eduardo\source\repos\CamisetasDeFutbol\CamisetasDeFutbol\obj\Debug\netcoreapp3.1\CamisetasDeFutbol.pdb
+C:\Users\Eduardo\source\repos\CamisetasDeFutbol\CamisetasDeFutbol\obj\Debug\netcoreapp3.1\CamisetasDeFutbol.genruntimeconfig.cache

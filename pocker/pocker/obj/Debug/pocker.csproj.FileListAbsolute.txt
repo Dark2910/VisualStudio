@@ -1,0 +1,7 @@
+C:\Users\Eduardo\source\repos\pocker\pocker\bin\Debug\pocker.exe.config
+C:\Users\Eduardo\source\repos\pocker\pocker\bin\Debug\pocker.exe
+C:\Users\Eduardo\source\repos\pocker\pocker\bin\Debug\pocker.pdb
+C:\Users\Eduardo\source\repos\pocker\pocker\obj\Debug\pocker.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\pocker\pocker\obj\Debug\pocker.exe
+C:\Users\Eduardo\source\repos\pocker\pocker\obj\Debug\pocker.pdb
+C:\Users\Eduardo\source\repos\pocker\pocker\obj\Debug\pocker.csproj.CoreCompileInputs.cache
